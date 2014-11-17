@@ -72,7 +72,6 @@
     <Content Include="css\kendo.common.min.css" />
     <Content Include="css\kendo.default.min.css" />
     <Content Include="css\Xrm.KendoUIGridSOAP.css" />
-    <Content Include="scripts\kendo.all.min.js" />
     <Content Include="Xrm.KendoUIGridSOAP.html" />
     <Content Include="scripts\jquery1.11.1.min.js" />
     <Content Include="scripts\Xrm.KendoUIGridSOAP.js" />
